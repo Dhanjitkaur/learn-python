@@ -1,0 +1,26 @@
+/*CSS*/
+a{
+	text-decoration:none;
+	color:white;
+	display:block;
+	text-align:center;
+}
+li{
+	/*border-style:solid;*/
+	display:inline-block;
+	background-color:red;
+	width:150px;
+	height:50px;
+	text-align:center;
+	font-size:15px;
+	text-align:right;
+
+}
+.bg{
+	background-image:url('../images/small image.jfif');
+	background-repeat:no-repeate;
+	height:400px;
+	background-size:100%;
+	background-attachment:fixed;
+	
+}
